@@ -3,7 +3,6 @@ the authors of referenced articles or incorporated external code:
 http://en.literateprograms.org/Quicksort_(C_Plus_Plus)?action=history&offset=20070928075422
 Retrieved from: http://en.literateprograms.org/Quicksort_(C_Plus_Plus)?oldid=10979
 */
-
 #ifndef QUICKSORT_H
 #define QUICKSORT_H
 
