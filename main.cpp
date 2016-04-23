@@ -10,7 +10,6 @@
 using namespace std;
 
 #include "quicksort.h"
-
 int main(int argc, char* argv[])
 {
 	std::vector<std::string> v(10);

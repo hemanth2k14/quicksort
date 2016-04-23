@@ -18,7 +18,6 @@ template<typename IT> IT partition(IT begin, IT end, IT pivot)
 	for(IT it=begin; it!=end-1; ++it) {
 		if(*it<=piv) {
 			std::swap(*store, *it);
-			++store;
 		}
 	}
 	std::swap(*(end-1), *store);

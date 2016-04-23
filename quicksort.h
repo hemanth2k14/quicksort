@@ -25,4 +25,6 @@ template<typename IT> void quick_sort(IT begin, IT end);
 
 template<typename T> void print(const T &data);
 
+
+
 #endif
