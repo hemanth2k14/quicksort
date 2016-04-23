@@ -9,7 +9,7 @@ Retrieved from: http://en.literateprograms.org/Quicksort_(C_Plus_Plus)?oldid=109
 #include <string>
 
 #include "quicksort.h"
-
+//Local edit on top of file
 template<typename IT> IT partition(IT begin, IT end, IT pivot)
 {
 	typename std::iterator_traits<IT>::value_type piv(*pivot);
